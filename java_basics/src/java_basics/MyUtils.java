@@ -7,15 +7,15 @@ public class MyUtils {
 		System.out.println("String passed in " + argument);
 	}
 	
-	public static int printSomeJunk(int argument) {
-		return argument;
+	public static void printSomeJunk(int argument) {
+		System.out.println("Integer passed in " + argument);
 	}
 	
 	public static void someTwoNumbers(int firstArg, int secondArg) {
 		System.out.println(firstArg + secondArg);
 	}
 	
-	public static int add10(int someArgument) {
+	public int add10(int someArgument) {
 		int result =someArgument + 10;
 		return result;
 	}
