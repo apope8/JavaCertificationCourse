@@ -3,7 +3,6 @@ INDEX VERSION 1.131+C:\Users\apope\Workspaces\Eclipse Projects\Udemy\Java Certif
 90514105.index
 3183041879.index
 2208423149.index
-3025337397.index
 3304783399.index
 887991136.index
 1064208278.index
